@@ -1,0 +1,11 @@
+%pylab inline
+import numpy as np
+from scipy.integrate import odeint
+from scipy.optimize import fsolve
+
+#question 0
+x0=[]               #liste conditions initiales
+for i in range(10):
+    x0.append(uniform(0.25,4,2))
+
+print(x0)
