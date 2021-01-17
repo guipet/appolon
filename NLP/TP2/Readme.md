@@ -7,5 +7,5 @@
 •'make'
 •'./evalb -p sample/sample.prm ../data/test.txt ../evaluation_data.parser_output.txt'
 
-##Attention : cela va remplacer mon 'evaluation_data.parser_output' par le nouveau qui sera créer en éxécutant la fonction
+##Attention : cela va remplacer mon 'evaluation_data.parser_output' par le nouveau qui sera créer en exécutant la fonction
 
