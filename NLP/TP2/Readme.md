@@ -1,6 +1,6 @@
 1/ télécharger le polyglot : https://sites.google.com/site/rmyeid/projects/polyglot
 
-2/ éxécuter run.sh dans le terminal. Il va entraîner les algorithmes sur les 80% de sequoia et fournir les résultats du test!
+2/ exécuter run.sh dans le terminal. Il va entraîner les algorithmes sur les 80% de sequoia et fournir les résultats du test!
  
 3/Pour évaluer grâce à EVALB, faire les commandes suivantes:
 •'cd EVALB'
